@@ -3,7 +3,6 @@
 #include "stat.h"
 #include "user.h"
 
-//passing command line arguments
 
 int main(int argc, char *argv[])
 {
@@ -11,4 +10,3 @@ int main(int argc, char *argv[])
     exit();
 }
 
-// This code is contributed by sambhav228
